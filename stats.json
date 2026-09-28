@@ -1,14 +1,14 @@
 {
   "version": 3,
-  "updated": "2026-09-27T09:06:51.801Z",
+  "updated": "2026-09-28T09:35:21.912Z",
   "platforms": {
     "instagram": {
       "followers": 66700,
       "subscribers": null,
-      "status": "success",
+      "status": "retained",
       "source": "LikeWave",
       "http_status": null,
-      "last_attempt": "2026-09-27T09:05:29.492Z",
+      "last_attempt": "2026-09-28T09:33:59.904Z",
       "last_success": "2026-09-27T09:05:29.492Z",
       "url": "https://www.instagram.com/mathematics.proofs"
     },
@@ -18,8 +18,8 @@
       "status": "success",
       "source": "Pinterest profile text",
       "http_status": 200,
-      "last_attempt": "2026-09-27T09:05:39.232Z",
-      "last_success": "2026-09-27T09:05:39.232Z",
+      "last_attempt": "2026-09-28T09:34:09.678Z",
+      "last_success": "2026-09-28T09:34:09.678Z",
       "url": "https://uk.pinterest.com/maths_videos/"
     },
     "threads": {
@@ -28,18 +28,18 @@
       "status": "success",
       "source": "Threads profile metadata",
       "http_status": 200,
-      "last_attempt": "2026-09-27T09:05:49.215Z",
-      "last_success": "2026-09-27T09:05:49.215Z",
+      "last_attempt": "2026-09-28T09:34:19.629Z",
+      "last_success": "2026-09-28T09:34:19.629Z",
       "url": "https://www.threads.com/@mathematics.proofs"
     },
     "tiktok": {
-      "followers": 8264,
+      "followers": 8261,
       "subscribers": null,
       "status": "success",
       "source": "TikTok rendered follower count",
       "http_status": 200,
-      "last_attempt": "2026-09-27T09:06:01.791Z",
-      "last_success": "2026-09-27T09:06:01.791Z",
+      "last_attempt": "2026-09-28T09:34:32.281Z",
+      "last_success": "2026-09-28T09:34:32.281Z",
       "url": "https://www.tiktok.com/@mathematics.proofs"
     },
     "twitter": {
@@ -48,7 +48,7 @@
       "status": "retained",
       "source": "X visible profile text",
       "http_status": 403,
-      "last_attempt": "2026-09-27T09:06:41.076Z",
+      "last_attempt": "2026-09-28T09:35:11.544Z",
       "last_success": "2026-08-26T03:58:23.563Z",
       "url": "https://x.com/mathsproofs"
     },
@@ -58,13 +58,13 @@
       "status": "success",
       "source": "YouTube channel text",
       "http_status": 200,
-      "last_attempt": "2026-09-27T09:06:51.744Z",
-      "last_success": "2026-09-27T09:06:51.744Z",
+      "last_attempt": "2026-09-28T09:35:21.853Z",
+      "last_success": "2026-09-28T09:35:21.853Z",
       "url": "https://www.youtube.com/@mathematics.proofs"
     }
   },
   "totals": {
-    "followers": 112850,
+    "followers": 112847,
     "subscribers": 8740,
     "follower_platforms": 5,
     "subscriber_platforms": 1,
@@ -74,8 +74,8 @@
     "subscribers_complete": true
   },
   "collection": {
-    "success": 5,
-    "retained": 1,
+    "success": 4,
+    "retained": 2,
     "failed": 0
   }
 }
